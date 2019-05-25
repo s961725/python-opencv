@@ -56,3 +56,5 @@ while True:
 
 # 關閉圖形顯示視窗
 cv2.destroyAllWindows()
+
+#測試網址https://blog.gtwang.org/programming/opencv-graph-based-segmentation-tutorial/
